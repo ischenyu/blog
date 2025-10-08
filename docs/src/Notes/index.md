@@ -11,9 +11,9 @@ types:
     desc: "How to Use"
     link: "/Notes/0tutorial/quickstart"
     icon: "✨"
-  - name: "面经分享"
-    desc: "interview experiences"
-    link: "/Notes/Interviews/"
+  - name: "Linux Kernel"
+    desc: "Linux"
+    link: "/Notes/LinuxKernel/"
     icon: "🏃"
 # flow: true
 ---
