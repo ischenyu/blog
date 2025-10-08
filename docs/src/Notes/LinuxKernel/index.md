@@ -3,7 +3,7 @@
 ## 目录
 
 * 进程管理
-    * [进程管理](https://github.com/liexusong/linux-source-code-analyze/blob/master/process-management.md)
+    * [进程管理](process-management.md)
     * [进程调度](https://github.com/liexusong/linux-source-code-analyze/blob/master/process-schedule.md)
 * 同步机制
     * [并发同步](https://github.com/liexusong/linux-source-code-analyze/blob/master/concurrency-synchronize.md)
